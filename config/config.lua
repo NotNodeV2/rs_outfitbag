@@ -12,7 +12,7 @@ Config.Item = {
 }
 
 Config.Command = {
-    enabled = true,
+    enabled = false,
     command = 'outfitbag'
 }
 
